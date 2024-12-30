@@ -16,7 +16,6 @@ The system features functionalities like room availability checking, booking roo
 6. [Configuration](#configuration)
 7. [Troubleshooting](#troubleshooting)
 8. [Contributors](#contributors)
-9. [License](#license)
 
 ## Project Structure
 
@@ -115,15 +114,6 @@ The database consists of multiple tables to manage guests, rooms, bookings, and 
 
 ## Contributors
 
-- **[Your Name]**: Developer and Project Lead.
+- **Youssef Ahmed**: Developer and Project Lead.
 
 If you have any questions or would like to contribute to this project, please feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-### Notes:
-- **Customization**: You can modify the connection string for your SQL Server configuration in the code.
-- **Room and Service Availability**: The system uses SQL queries to ensure room availability and service selection during the booking process.
